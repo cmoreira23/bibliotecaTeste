@@ -1,0 +1,7 @@
+{
+  "name": "bibliotecaTeste",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
